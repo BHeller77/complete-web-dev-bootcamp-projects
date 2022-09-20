@@ -1,0 +1,1 @@
+A web application demonstrating authentication and security methods where users can register/log in with Google authentication or their own new account and post anonymous messages. The application uses JS, Mongoose, Passport, EJS, and Express.JS.
